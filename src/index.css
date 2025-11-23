@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  section {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  .logos img {
+    width: 80px;
+    margin: 10px;
+  }
+  .cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  .card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    width: 250px;
+    border-radius: 8px;
+  }
+  .pixelgrade-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+  }
+  .learn-btn {
+    padding: 10px 20px;
+    background: green;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .feature-card {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    width: 260px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    margin: 10px;
+  }
+  
+  .feature-icon {
+    margin-bottom: 16px;
+    font-size: 32px; /* works if icon is text or emoji */
+  }
+  
+  .feature-title {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+  
+  .feature-description {
+    color: #555;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+    

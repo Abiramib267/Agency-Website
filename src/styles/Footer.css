@@ -1,0 +1,40 @@
+.footer {
+    background: #111827;
+    color: #d1d5db;
+    padding: 60px 20px;
+    text-align: center;
+  }
+  
+  .footer-top h3 {
+    color: white;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .footer-links {
+    margin: 20px 0;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .footer-links a {
+    color: #9ca3af;
+    text-decoration: none;
+    font-size: 0.9rem;
+  }
+  
+  .footer-newsletter h4 {
+    color: white;
+    margin-bottom: 10px;
+  }
+  
+  .footer-newsletter input {
+    padding: 10px 14px;
+    border-radius: 6px;
+    border: none;
+    width: 250px;
+    max-width: 100%;
+  }
+  

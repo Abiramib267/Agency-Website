@@ -1,0 +1,13 @@
+.logos {
+    display: flex;
+    gap: 20px; 
+    flex-wrap: wrap; 
+    justify-content: center; 
+  }
+  
+  .client-logo {
+    width: 120px;   
+    height: 60px;   
+    object-fit: contain; 
+  }
+  

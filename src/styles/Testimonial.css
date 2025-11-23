@@ -1,0 +1,28 @@
+.testimonial {
+    background: #f9fafb;
+    text-align: center;
+    padding: 50px 20px;
+  }
+  
+  .testimonial-logo {
+    height: 112px;
+    width: 210px;
+    margin-bottom: 20px;
+  }
+  
+  .testimonial p {
+    max-width: 600px;
+    margin: 0 auto 20px;
+    color: #555;
+  }
+  
+  .testimonial h3 {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .testimonial span {
+    color: #666;
+    font-size: 0.9rem;
+  }
+  

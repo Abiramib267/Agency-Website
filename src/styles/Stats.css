@@ -1,0 +1,24 @@
+.stats-section {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    text-align: center;
+    padding: 60px 20px;
+    background: #f9fafb;
+  }
+  
+  .stat h2 {
+    font-size: 2rem;
+    color: #222;
+  }
+  
+  .stat p {
+    color: #666;
+  }
+  
+  @media (min-width: 768px) {
+    .stats-section {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+  
