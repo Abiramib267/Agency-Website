@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+@media (max-width: 600px) {
+  .App-header {
+    font-size: 14px;
+    padding: 20px;
+  }
+}
